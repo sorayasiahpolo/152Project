@@ -1,3 +1,5 @@
+this is s
+
 package edu.sjsu.fwjs;
 
 import java.util.Iterator;
@@ -13,7 +15,7 @@ public class Environment {
      * Constructor for global environment
      */
     public Environment() {}
-
+  hellooo there
     /**
      * Constructor for local environment of a function
      */
